@@ -37,3 +37,6 @@ The following command generates an OBJ file with vertex colors：
 By executing the following command, a higher quality 3D mesh is generated and the OBJ, MTL, and PNG files are exported:
 
     python inference.py "input text" name --export_omp
+
+## 4. Evaluation
+We evaluated our model on the [T3Bench](https://github.com/THU-LYJ-Lab/T3Bench)
