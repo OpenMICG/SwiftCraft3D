@@ -41,8 +41,8 @@ parser.add_argument('--scale', type=float, default=1.0, help='Scale for generate
 args = parser.parse_args()
 seed_everything(args.seed)
 
-config = OmegaConf.load("rec_config/instant-mesh-large.yaml")
-config_name = os.path.basename("rec_config/instant-mesh-large.yaml").replace('.yaml', '')
+config = OmegaConf.load("rec_config/reconstruction.yaml")
+config_name = os.path.basename("rec_config/reconstruction.yaml").replace('.yaml', '')
 model_config = config.model_config
 infer_config = config.infer_config
 
