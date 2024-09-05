@@ -28,3 +28,12 @@ Our training data is sourced from the [Objaverse dataset](https://objaverse.alle
     --train_batch_size=2 --num_train_epochs=10 --checkpointing_steps=1000  \
     --learning_rate=1e-06 --lr_scheduler="constant" --lr_warmup_steps=0  \
     --output_dir="/path/to/output"
+
+## 3. Inference
+The following command generates an OBJ file with vertex colors：
+
+    python inference.py "input text" name
+
+By executing the following command, a higher quality 3D mesh is generated and the OBJ, MTL, and PNG files are exported:
+
+    python inference.py "input text" name --export_omp
