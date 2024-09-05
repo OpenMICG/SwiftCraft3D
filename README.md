@@ -40,3 +40,6 @@ By executing the following command, a higher quality 3D mesh is generated and th
 
 ## 4. Evaluation
 We evaluated our model on the [T3Bench](https://github.com/THU-LYJ-Lab/T3Bench)
+
+# Anckowledgement
+This repo is based on [GPT-4](https://openai.com/index/gpt-4/), [Stable Diffusion XL](https://github.com/Stability-AI/StableDiffusion), [zero123plus](https://github.com/SUDO-AI-3D/zero123plus), [LRM](https://github.com/3DTopia/OpenLRM?tab=readme-ov-file), [InstantMesh](https://github.com/TencentARC/InstantMesh), and [FlexiCubes](https://github.com/nv-tlabs/FlexiCubes). We would like to express our gratitude for their outstanding work.
