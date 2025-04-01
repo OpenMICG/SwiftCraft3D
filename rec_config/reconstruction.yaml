@@ -14,7 +14,7 @@ model_config:
     grid_res: 128
     grid_scale: 2.1
 
-
+ 
 infer_config:
   unet_path: ckpts/diffusion_pytorch_model.bin
   model_path: ckpts/instant_mesh_large.ckpt
