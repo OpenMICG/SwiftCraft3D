@@ -55,5 +55,4 @@ If you find this work useful, please consider citing it as follows:
   title = {SwiftCraft3D: Semantic-Enhanced Multi-View Prompting for Efficient and High-Fidelity Text-to-3D Generation},
   journal = {The Visual Computer (submitted)},
   year = {2025},
-  note = {Under review}
 }
