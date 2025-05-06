@@ -47,9 +47,9 @@ This repo is based on [GPT-4](https://openai.com/index/gpt-4/), [Stable Diffusio
 
 # Citation
 If you find this work useful, please consider citing it as follows:
-    @article{dong2025swiftcraft3d,
-      author = {Zeyi Dong and Ting Yu},
-      title = {SwiftCraft3D: Semantic-Enhanced Multi-View Prompting for Efficient and High-Fidelity Text-to-3D Generation},
-      journal = {The Visual Computer (submitted)},
-      year = {2025},
-    }
+        @article{dong2025swiftcraft3d,
+          author = {Zeyi Dong and Ting Yu},
+          title = {SwiftCraft3D: Semantic-Enhanced Multi-View Prompting for Efficient and High-Fidelity Text-to-3D Generation},
+          journal = {The Visual Computer (submitted)},
+          year = {2025},
+        }
