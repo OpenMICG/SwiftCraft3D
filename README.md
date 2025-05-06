@@ -1,6 +1,15 @@
 # SwiftCraft3D: Semantic-Enhanced Multi-View Prompting for Efficient and High-Fidelity Text-to-3D Generation
 ![hrc7u-k1v2r](https://github.com/user-attachments/assets/87541ed7-8aba-4d62-bcec-5cbd8ba983a8)
 
+# Table of Contents
+    1. [Usage](#usage)
+        1. [1. Requirements](#1-requirements)
+        2. [2. Train](#2-train)
+        3. [3. Inference](#3-inference)
+        4. [4. Evaluation](#4-evaluation)
+    2. [Acknowledgement](#acknowledgement)
+    3. [Citation](#citation)
+
 # Usage
 
 ## 1. Requirements
@@ -45,7 +54,7 @@ We evaluated our model on the [T3Bench](https://github.com/THU-LYJ-Lab/T3Bench)
 # Anckowledgement
 This repo is based on [GPT-4](https://openai.com/index/gpt-4/), [Stable Diffusion XL](https://github.com/Stability-AI/StableDiffusion), [zero123plus](https://github.com/SUDO-AI-3D/zero123plus), [LRM](https://github.com/3DTopia/OpenLRM?tab=readme-ov-file), [InstantMesh](https://github.com/TencentARC/InstantMesh), and [FlexiCubes](https://github.com/nv-tlabs/FlexiCubes). We would like to express our gratitude for their outstanding work.
 
-# Citation
+## 5. Citation
 
 If you find this work useful, please consider citing it as follows:
 
