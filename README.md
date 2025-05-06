@@ -46,10 +46,14 @@ We evaluated our model on the [T3Bench](https://github.com/THU-LYJ-Lab/T3Bench)
 This repo is based on [GPT-4](https://openai.com/index/gpt-4/), [Stable Diffusion XL](https://github.com/Stability-AI/StableDiffusion), [zero123plus](https://github.com/SUDO-AI-3D/zero123plus), [LRM](https://github.com/3DTopia/OpenLRM?tab=readme-ov-file), [InstantMesh](https://github.com/TencentARC/InstantMesh), and [FlexiCubes](https://github.com/nv-tlabs/FlexiCubes). We would like to express our gratitude for their outstanding work.
 
 # Citation
+
 If you find this work useful, please consider citing it as follows:
-        @article{dong2025swiftcraft3d,
-          author = {Zeyi Dong and Ting Yu},
-          title = {SwiftCraft3D: Semantic-Enhanced Multi-View Prompting for Efficient and High-Fidelity Text-to-3D Generation},
-          journal = {The Visual Computer (submitted)},
-          year = {2025},
-        }
+
+```bibtex
+@article{dong2025swiftcraft3d,
+  author = {Zeyi Dong and Ting Yu},
+  title = {SwiftCraft3D: Semantic-Enhanced Multi-View Prompting for Efficient and High-Fidelity Text-to-3D Generation},
+  journal = {The Visual Computer (submitted)},
+  year = {2025},
+  note = {Under review}
+}
