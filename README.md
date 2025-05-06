@@ -3,14 +3,18 @@
 
 # Table of Contents
 
-• [Table of Contents](#table-of-contents)  
-• [Usage](#usage)  
-     ◦ [Requirements](#1-requirements)  
-     ◦ [Train](#2-train)  
-     ◦ [Inference](#3-inference)  
-     ◦ [Evaluation](#4-evaluation)  
-• [Acknowledgement](#acknowledgement)  
-• [Citation](#citation)
+<ul>
+  <li>[Table of Contents](#table-of-contents)</li>
+  <li>[Usage](#usage)</li>
+  <ul style="list-style-type:circle;">
+    <li style="margin-left: 10px;">[Requirements](#1-requirements)</li>
+    <li style="margin-left: 20px;">[Train](#2-train)</li>
+    <li style="margin-left: 30px;">[Inference](#3-inference)</li>
+    <li style="margin-left: 40px;">[Evaluation](#4-evaluation)</li>
+  </ul>
+  <li>[Acknowledgement](#acknowledgement)</li>
+  <li>[Citation](#citation)</li>
+</ul>
 
 # Usage
 
