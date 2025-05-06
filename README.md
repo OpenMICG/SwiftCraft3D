@@ -2,13 +2,13 @@
 ![hrc7u-k1v2r](https://github.com/user-attachments/assets/87541ed7-8aba-4d62-bcec-5cbd8ba983a8)
 
 # Table of Contents
-    1. [Usage](#usage)
-        1. [1. Requirements](#1-requirements)
-        2. [2. Train](#2-train)
-        3. [3. Inference](#3-inference)
-        4. [4. Evaluation](#4-evaluation)
-    2. [Acknowledgement](#acknowledgement)
-    3. [Citation](#citation)
+1. [Usage](#usage)
+    1. [1. Requirements](#1-requirements)
+    2. [2. Train](#2-train)
+    3. [3. Inference](#3-inference)
+    4. [4. Evaluation](#4-evaluation)
+2. [Acknowledgement](#acknowledgement)
+3. [Citation](#citation)
 
 # Usage
 
