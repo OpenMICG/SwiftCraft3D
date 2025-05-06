@@ -2,17 +2,18 @@
 ![hrc7u-k1v2r](https://github.com/user-attachments/assets/87541ed7-8aba-4d62-bcec-5cbd8ba983a8)
 
 # Table of Contents
-1. [Usage](#usage)
-    1. [1. Requirements](#1-requirements)
-    2. [2. Train](#2-train)
-    3. [3. Inference](#3-inference)
-    4. [4. Evaluation](#4-evaluation)
-2. [Acknowledgement](#acknowledgement)
-3. [Citation](#citation)
+• [Table of Contents](#Table of Contents)
+• [Usage](#usage)
+    ◦ [Requirements](#1-requirements)
+    ◦ [Train](#2-train)
+    ◦ [Inference](#3-inference)
+    ◦ [Evaluation](#4-evaluation)
+• [Acknowledgement](#acknowledgement)
+• [Citation](#citation)
 
 # Usage
 
-## 1. Requirements
+## Requirements
     git clone https://github.com/OpenMICG/SwiftCraft3D.git
 
     cd SwiftCraft3D
@@ -25,7 +26,7 @@
 
     pip install -r requirements.txt
 
-## 2. Train
+## Train
 Our training data is sourced from the [Objaverse dataset](https://objaverse.allenai.org/objaverse-1.0/), and the subtitles are derived from [Cap3D](https://github.com/crockwell/Cap3D?tab=readme-ov-file). Execute the following command to initiate the training:
 
     accelerate launch train.py  \
@@ -38,7 +39,7 @@ Our training data is sourced from the [Objaverse dataset](https://objaverse.alle
     --learning_rate=1e-06 --lr_scheduler="constant" --lr_warmup_steps=0  \
     --output_dir="/path/to/output"
 
-## 3. Inference
+## Inference
 The following command generates an OBJ file with vertex colors：
 
     python inference.py "input text" name
@@ -47,14 +48,14 @@ By executing the following command, a higher quality 3D mesh is generated and th
 
     python inference.py "input text" name --export_omp
 
-## 4. Evaluation
+## Evaluation
 We evaluated our model on the [T3Bench](https://github.com/THU-LYJ-Lab/T3Bench)
 
 
 # Anckowledgement
 This repo is based on [GPT-4](https://openai.com/index/gpt-4/), [Stable Diffusion XL](https://github.com/Stability-AI/StableDiffusion), [zero123plus](https://github.com/SUDO-AI-3D/zero123plus), [LRM](https://github.com/3DTopia/OpenLRM?tab=readme-ov-file), [InstantMesh](https://github.com/TencentARC/InstantMesh), and [FlexiCubes](https://github.com/nv-tlabs/FlexiCubes). We would like to express our gratitude for their outstanding work.
 
-## 5. Citation
+## Citation
 
 If you find this work useful, please consider citing it as follows:
 
