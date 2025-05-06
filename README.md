@@ -2,13 +2,21 @@
 ![hrc7u-k1v2r](https://github.com/user-attachments/assets/87541ed7-8aba-4d62-bcec-5cbd8ba983a8)
 
 # Table of Contents
-• [Table of Contents](#Table of Contents)
+
+• [Table of Contents](#table-of-contents)
+
 • [Usage](#usage)
+
     ◦ [Requirements](#1-requirements)
+
     ◦ [Train](#2-train)
+
     ◦ [Inference](#3-inference)
+
     ◦ [Evaluation](#4-evaluation)
+
 • [Acknowledgement](#acknowledgement)
+
 • [Citation](#citation)
 
 # Usage
