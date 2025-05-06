@@ -5,10 +5,10 @@
 
 - [Table of Contents](#table-of-contents)
 - [Usage](#usage)
-    - [Requirements](#1-requirements)
-    - [Train](#2-train)
-    - [Inference](#3-inference)
-    - [Evaluation](#4-evaluation)
+    - [Requirements](#requirements)
+    - [Train](#train)
+    - [Inference](#inference)
+    - [Evaluation](#evaluation)
 - [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
 
